@@ -1,0 +1,9 @@
+#add, #subtract, #multiply, #divide{
+    padding: 15px;
+    font-weight: bolder;
+    font-size: larger;
+    color: aliceblue;
+    background-color: rgba(141, 73, 205, 0.801);
+    border: none;
+    border-radius: 8px;
+}
